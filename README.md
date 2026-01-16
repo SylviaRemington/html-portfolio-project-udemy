@@ -6,3 +6,5 @@ Udemy Practice
 
 **Basic HTML Deployment for Practice Assignment at: https://sylviaremington.github.io/html-portfolio-project-udemy/**
 
+<img width="321" height="1146" alt="Screenshot 2026-01-13 at 6 25 26 PM" src="https://github.com/user-attachments/assets/439c3fba-5095-4507-bcc2-6631657124ec" />
+
